@@ -1,0 +1,32 @@
+:root {
+  --color-abyss: #0a1628;
+  --color-navy: #122240;
+  --color-steel: #1a2d4a;
+  --color-ice: #4a9eff;
+  --color-cyan-data: #5bc0de;
+  --color-text-primary: #e8edf5;
+  --color-text-secondary: #8b9bb4;
+  --color-text-disabled: #4a5568;
+  --color-border: #1e3a5f;
+  --color-team-red: #e53e3e;
+  --color-team-blue: #3182ce;
+  --color-damage: #ff6b6b;
+  --color-buff: #48bb78;
+  --color-gold: #f6e05e;
+  --color-reload-ready: #4a9eff;
+  --color-reload-busy: #8b9bb4;
+
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+
+  --radius-card: 12px;
+  --radius-panel: 16px;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-6: 24px;
+
+  --shadow-panel: 0 18px 48px rgb(0 0 0 / 35%);
+  --shadow-card-hover: 0 14px 32px rgb(0 0 0 / 42%);
+}
